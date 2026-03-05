@@ -59,4 +59,22 @@ student mentor ko kuchh jo usne hatke kiya he showcase kar paye
 
 3. kisi student ki report hoti he aur verify ho jati he to bhi mentor messages kare..
 
-4.
+4. duolingo jesa daily stick karta he to mentor bataye ki mene dekha tumne 12 day ki stric kar di he course karne ki
+
+5. student se kuchh puchhne par agar vah koi new information milti he jese student bole mere dadaji bimar he to ai puchh le ki kab se he,kya ho gaya he ya fir setuation ke hisab se ki take care type
+
+6. mentor student ko uski weakly summary bheje personaly aur uske thoughts bataye uspar jese tumne 10 levels complete kiye tumne itna time isme diya
+
+7. mentor student ko birthday wish kare
+
+8. mentor apni khud ki story bataye ki mene bhi ek time par ye course kiya tha aur mere sath bhi ye problem aayi thi normal he
+
+9.mentor students se group me ek friend ki tarah engage kare
+
+10. mentor student se time puchh le jese student ne bola ki kal se me vapis course start kar raha hun to kal kitni baje se karoge start
+
+11. students se hi puchhle mentor jese 5 level kar li student ne to mantor ka message aaaya "kya lagta he 5 levels aur kitne dino me kar loge"
+
+12. mantor personal me bhi questiosn bhi puchh sakta he kuchh jo course me sikh raha he vha..
+
+13. mantor hamesha course ki bate hi na kare kabhi kabhi kuch gyan bhi dene lag jaye jese - "Name agar subah course karna he aur instagram open kar lete ho to instagram ke place par codeyogi app ko kar do homescreen me "(bekar example)
