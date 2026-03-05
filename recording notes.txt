@@ -1,0 +1,75 @@
+AI-Powered Nudging Engine
+Meeting Notes — Strategy Discussion
+Context & Problem Statement
+CodeYogi ek non-profit foundation hai jo bacchon ko online padhata hai (WhatsApp bot + chat app ke zariye).
+
+Mentor-student ratio bahut challenging hai:
+Ek mentor ke paas ~500 students hote hain (5 cohorts x 100 bacche)
+Mentor sirf mahine mein ek baar call karta hai har cohort se — yaani 5 ghante/mahina
+Problem: Ek mentor itne bacchon ko personally nudge nahi kar sakta manually
+Insight: Bacche tab tak mehnat nahi karte jab tak koi adult unpar believe na kare aur push na kare
+Self-discipline sabme nahi hoti — external motivation zaruri hai
+
+Goal: AI Nudging Engine
+Mentor ke behalf par AI automatic messages bheje jo personal lage — jaise mentor khud likh raha ho.
+
+Messages feel hone chahiye ki 'Ankit sir mujh par personally dhyan de rahe hain'
+Scope: Pehle app focus (WhatsApp baad mein)
+Human-in-the-loop bhi possible ho zaroort ke hisaab se
+
+Key Features Discussed
+Personalization Layers
+Student ki activity dekh ke reaction dena (e.g., thumbs up for good work)
+Agar koi 3 din se kuch nahi kar raha — reason poochhna, follow-up karna
+Personal details yaad rakhna:
+Papa ki tabiyat kharab thi — uske baare mein poochhna
+Ghar ke events, personal struggles track karna
+Location-based events use karna:
+Example: Dehradun mein baadh aayi — wahan ke students ko context-aware message bhejna
+World/local events ko messages se connect karna
+
+Message Types
+Encouragement messages (good work par positive reinforcement)
+Re-engagement messages (inactive students ke liye)
+Follow-up messages (student ke reply ke basis par)
+Check-in messages (personal events ke baad)
+Event-triggered messages (local news, world events se inspired)
+
+Advanced Personalization (Future)
+Voice cloning — mentor ki awaaz mein audio message bhejna
+Har student ke liye unique message style (mentor ka tone maintain ho)
+
+Immediate Next Steps (Action Items)
+Brain dump file banana — jo koi bhi design kar raha hai wo apne ideas likhe
+Claude Code se strategy doc banwana (NO CODE — sirf high-level plan)
+Strategy document mein cover karna:
+Workflow kaisa hoga end-to-end
+Kaun sa data collect karein
+AI analysis kaisi hogi
+Message delivery mechanism
+Human-in-the-loop kab aur kaise
+Quality control — galat message na jaaye
+Low-hanging fruits vs sophisticated features
+
+What the Strategy Doc Should Cover
+High-level workflow (not technical architecture)
+Types of messages aur unke triggers
+Data requirements (assume data available hai)
+Personalization strategies
+Pitfalls & risks:
+AI galat ya inappropriate message bhej sakta hai
+Over-messaging se students irritate ho sakte hain
+Fake personal touch feel ho sakta hai agar zyada generic ho
+Quality assurance mechanisms
+Phased rollout:
+Phase 1: Easy wins (basic nudges, activity-based triggers)
+Phase 2: Personalization layer (memory, follow-ups)
+Phase 3: Advanced (voice clone, local events, world news integration)
+
+Important Constraints
+Abhi ek bhi line code nahi likhna
+Database, APIs, service integration — in details mein nahi jaana abhi
+Focus: Strategy, workflow, message types, personalization ideas
+Approach: Maan lo data available hai — sirf use case design karo
+
+Note: Ye document ek voice conversation se liya gaya hai. Design mein CodeYogi ke students aur mentors ka direct experience use karna hai.
