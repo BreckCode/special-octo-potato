@@ -80,3 +80,5 @@ student mentor ko kuchh jo usne hatke kiya he showcase kar paye
 13. mantor students ki progress jinse student connect karta he (uske friends) unki progress se compare kare
 
 14. mantor hamesha course ki bate hi na kare kabhi kabhi kuch gyan bhi dene lag jaye jese - "Name agar subah course karna he aur instagram open kar lete ho to instagram ke place par codeyogi app ko kar do homescreen me "(bekar example)
+
+15. agar koi student course me achchha kar raha he lekin group me participate nahi kar raha to mentor usko personally encourage kare group me participate karne ke liye jese "mene dekha tumhari progress bahut achchhi he, group me bhi apna experience share karo, baki students ko bhi help hogi"

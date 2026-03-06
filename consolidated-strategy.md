@@ -135,7 +135,7 @@ Mentor: "bahut kam"
 
 **Needs Push** — Does well when nudged, slows without it. Regular check-ins needed. Accountability is important. Streak tracking works well for them.
 
-**Shy / Silent** — Does the work but never participates in group. Rarely replies. Appreciate them personally. Encourage group participation gently but don't force. They are engaged, just not talkative.
+**Shy / Silent** — Does the work but never participates in group. Rarely replies. Appreciate them personally. Encourage group participation gently but don't force. They are engaged, just not talkative. If they're doing well in the course, use that as a reason to nudge them toward group participation — "tumhari progress bahut achchhi he, group me bhi share karo, baki students ko bhi help hogi."
 
 **Social Learner** — Active in group, helps others, engages. Give them group appreciation, leadership roles. They work best in buddy systems.
 
@@ -308,6 +308,13 @@ Mentor: "ye wala assignment thoda tricky he"
 Mentor: "isme ye try karo..."
 ```
 
+**Upcoming hard section (Struggle normalization)** — Before the student even hits a known tough section, warn them so they don't feel like a failure when they struggle. Different from stuck point help — this is BEFORE they reach it. Sets the expectation that struggle is normal. Cooldown: per section.
+```
+Mentor: "next 2-3 levels thodi tricky hain"
+Mentor: "agar stuck ho toh tension mat lena"
+Mentor: "sabko hota he"
+```
+
 **Course interest (Related content)** — If a student is doing an AI course, share new AI releases, relevant videos, docs. Cooldown: 1/week.
 
 **Every 10 levels (Quiz challenge)** — Cooldown: per milestone.
@@ -335,6 +342,17 @@ Mentor: "papa ki tabiyat kaisi he ab?"
 ```
 Mentor: "mere sath bhi hua tha ye"
 Mentor: "normal he"
+```
+
+**Mentor ne dusron ko bataya (Social proof of pride)** — Make the student feel that the mentor talks about them to others. Very powerful for building self-worth. Cooldown: 1/month.
+```
+Mentor: "aaj team meeting me tumhara naam aaya"
+Mentor: "bataya ki mere ek student ne 50 levels kar li"
+```
+Or:
+```
+Mentor: "ek aur mentor ne poochha best student kaun he"
+Mentor: "tumhara naam liya mene"
 ```
 
 **Life tips** — Occasionally, non-course advice. Rare.
@@ -373,6 +391,13 @@ Mentor: "achchha kiya"
 **Goal commitment (Goal check-in)** — Context-based.
 ```
 Mentor: "kitne din me 5 aur levels karoge?"
+```
+
+**Good progress but no group participation (Group participation nudge)** — Student is doing well in the course but not active in the group. Mentor encourages them to participate by leveraging their progress. Cooldown: 1/2 weeks.
+```
+Mentor: "mene dekha tumhari progress bahut achchhi he"
+Mentor: "group me bhi share karo apna experience"
+Mentor: "baki students ko bhi help hogi"
 ```
 
 #### Re-Engagement (For Inactive/Dropped Students)
