@@ -291,9 +291,14 @@ Mentor: "80% log yaha tak nahi pahunchte"
 Mentor: "12 din ho gaye continuous"
 ```
 
-**Week end (Weekly summary)** — Cooldown: 1/week
+**Week end (Weekly summary)** — Mentor shares what the student did this week, OR asks the student what they learned this week. Cooldown: 1/week
 ```
 Mentor: "is hafte 10 levels ki tumne"
+Mentor: "achchha chal raha he"
+```
+Or mentor asks the student:
+```
+Mentor: "is hafte kya naya sikha?"
 ```
 
 **Course completed (Completion celebration)** — Once. See Stage 7 above.

@@ -63,7 +63,7 @@ student mentor ko kuchh jo usne hatke kiya he showcase kar paye
 
 5. student se kuchh puchhne par agar vah koi new information milti he jese student bole mere dadaji bimar he to ai puchh le ki kab se he,kya ho gaya he ya fir setuation ke hisab se ki take care type
 
-6. mentor student ko uski weakly summary bheje personaly aur uske thoughts bataye uspar jese tumne 10 levels complete kiye tumne itna time isme diya
+6. mentor student ko uski weakly summary bheje personaly aur uske thoughts bataye uspar jese tumne 10 levels complete kiye tumne itna time isme diya, ya fir mentor student se hi puchh le ki is hafte kya naya sikha type - isse student ko lagega mentor interested he uski learning me
 
 7. mentor student ko birthday wish kare
 
