@@ -269,6 +269,17 @@ Mentor: "mene dekha tumhari progress"
 Mentor: "apni district me 80% students se aage ho tum"
 ```
 
+**Friend's progress comparison (Connected peers)** — Cooldown: 1/week
+Mentor compares the student's progress with students they are connected with (their friends on the platform). This feels more personal than district-level comparison because the student actually knows these people.
+```
+Mentor: "tumhare friend Rahul ne aaj 5 levels ki"
+Mentor: "tum bhi kar sakte ho"
+```
+Or:
+```
+Mentor: "tumhare group me Modi aur Priya dono tum se aage nikal gaye"
+```
+
 **Level 10, 20, 30... (Milestone celebration)** — Cooldown: per milestone
 ```
 Mentor: "50 levels ho gayi"

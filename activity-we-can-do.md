@@ -77,4 +77,6 @@ student mentor ko kuchh jo usne hatke kiya he showcase kar paye
 
 12. mantor personal me bhi questiosn bhi puchh sakta he kuchh jo course me sikh raha he vha..
 
-13. mantor hamesha course ki bate hi na kare kabhi kabhi kuch gyan bhi dene lag jaye jese - "Name agar subah course karna he aur instagram open kar lete ho to instagram ke place par codeyogi app ko kar do homescreen me "(bekar example)
+13. mantor students ki progress jinse student connect karta he (uske friends) unki progress se compare kare
+
+14. mantor hamesha course ki bate hi na kare kabhi kabhi kuch gyan bhi dene lag jaye jese - "Name agar subah course karna he aur instagram open kar lete ho to instagram ke place par codeyogi app ko kar do homescreen me "(bekar example)
